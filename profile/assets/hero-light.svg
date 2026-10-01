@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="490" viewBox="0 0 1280 490" role="img" aria-labelledby="title"><title id="title">3826 — One schema. A better JVM workflow.</title><g font-family="Segoe UI, Arial, sans-serif">
+    <rect width="1280" height="490" rx="24" fill="#F5F3ED"/>
+    <text x="64" y="73" font-size="30" font-weight="800" letter-spacing="-1" fill="#17191D">3826</text>
+    <path d="M166 49v29" stroke="#D5D9CB" stroke-width="2"/>
+    <text x="190" y="70" font-size="18" letter-spacing="3" fill="#595E57">OPEN SOURCE / JVM</text>
+    <text x="60" y="189" font-size="70" font-weight="700" letter-spacing="-3" fill="#17191D">One schema.</text>
+    <text x="60" y="273" font-size="70" font-weight="700" letter-spacing="-3" fill="#17191D">A better JVM workflow.</text>
+    <text x="64" y="331" font-size="23" fill="#595E57">From your data model to your client and editor.</text>
+    <rect x="962" y="121" width="254" height="254" rx="127" fill="#D7FF62"/>
+    <svg x="984" y="143" width="210" height="210" viewBox="130 116 1000 1000"><g fill="#17191D"><path d="M341 686 475 267Q481 247 501 235L602 174Q643 149 660 188L688 298 628 341 391 708Q368 690 341 686Z"/><path d="M429 736 729 315 848 299Q899 289 898 339L898 454 485 790Z"/><path d="M507 818 934 496 1054 539Q1111 558 1080 613L1037 683Q1030 694 1013 701L548 880Q537 846 507 818Z"/><path d="M287 765 320 727Q337 705 356 725L509 872Q528 891 510 910L472 945Z"/><path d="M267 790 448 967 395 1017C344 1070 263 1069 214 1015S171 887 220 839Z"/></g></svg>
+    <path d="M64 392H1216" stroke="#D5D9CB"/>
+    <circle cx="71" cy="437" r="7" fill="#17191D"/>
+    <text x="94" y="444" font-size="20" fill="#17191D">Kotlin + Java</text>
+    <text x="356" y="444" font-size="20" fill="#595E57">PostgreSQL + SQLite</text>
+    <text x="718" y="444" font-size="20" fill="#595E57">IntelliJ IDEA</text>
+    <text x="1199" y="444" text-anchor="end" font-size="18" font-weight="600" fill="#17191D">VOLAN ↗</text></g></svg>
